@@ -1,0 +1,55 @@
+.combos {
+  display: flex;
+  list-style: none;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.combo {
+  border: 1px solid black;
+  padding: 20px;
+  max-width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h2 {
+  text-align: center;
+  margin: 20px 0;
+}
+.combo-name {
+  font-weight: 800;
+}
+
+.combo-description {
+  margin-top: 8px;
+  font-weight: 500;
+  color: gray;
+  margin-bottom: 12px;
+}
+
+.combo-img {
+  width: 280px;
+}
+
+.combo-buy {
+  background-color: orange;
+  border-radius: 25px;
+  padding: 8px;
+  color: white;
+  border: none;
+  font-size: 16px;
+  margin-left: 20px;
+}
+
+.combo-buy:hover {
+  background-color: orangered;
+  cursor: pointer;
+}
+
+.price-n-order {
+  display: flex;
+  align-items: center;
+  margin-top: auto;
+}

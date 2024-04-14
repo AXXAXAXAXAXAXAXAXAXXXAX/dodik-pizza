@@ -1,0 +1,31 @@
+.oftenorder-wrapper {
+  justify-content: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.oftenorder-items {
+  list-style: none;
+  display: flex;
+  gap: 20px;
+}
+.oftenorder-item {
+  padding: 8px;
+  border-radius: 25px;
+  border: 1px orange solid;
+}
+
+.oftenorder-item-block {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.oftenorder-text {
+  margin: 20px 0;
+}
+
+.oftenorder-item-block-pic {
+  width: 80px;
+  margin-right: 20px;
+}

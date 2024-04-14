@@ -1,0 +1,25 @@
+.main-wrapper {
+  display: flex;
+  flex-direction: column;
+  max-width: 1280px;
+  margin: 0 auto;
+}
+.select-pizza__items {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style: none;
+}
+
+.select-pizza__item-link {
+  text-decoration: none;
+  color: gray;
+  margin: 0 10px;
+}
+.select-pizza__item-link:hover {
+  text-decoration: none;
+  color: black;
+}
+.select-pizza__item {
+  display: inline;
+}
