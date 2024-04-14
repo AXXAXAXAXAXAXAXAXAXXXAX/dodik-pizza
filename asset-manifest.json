@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dodik-pizza/static/css/main.72b9f047.css",
+    "main.js": "/dodik-pizza/static/js/main.364d3879.js",
+    "static/js/453.8d7f5a5a.chunk.js": "/dodik-pizza/static/js/453.8d7f5a5a.chunk.js",
+    "index.html": "/dodik-pizza/index.html",
+    "main.72b9f047.css.map": "/dodik-pizza/static/css/main.72b9f047.css.map",
+    "main.364d3879.js.map": "/dodik-pizza/static/js/main.364d3879.js.map",
+    "453.8d7f5a5a.chunk.js.map": "/dodik-pizza/static/js/453.8d7f5a5a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72b9f047.css",
+    "static/js/main.364d3879.js"
+  ]
+}
