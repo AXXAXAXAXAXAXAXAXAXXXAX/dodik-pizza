@@ -1,8 +1,7 @@
 import "./Main.css";
 import React from "react";
 import OftenOrder from "./OftenOrder";
-import PizzaList from "./PizzaList";
-import ComboList from "./ComboList";
+import ProductList from "./ProductList";
 
 const Main = () => {
   return (
@@ -37,8 +36,7 @@ const Main = () => {
         </ul>
       </div>
       <OftenOrder />
-      <PizzaList />
-      <ComboList />
+      <ProductList />
     </div>
   );
 };
